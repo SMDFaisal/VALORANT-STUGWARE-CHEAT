@@ -59,6 +59,6 @@
 <div align="center">
     <h2 style="color:#4682B4;">📬 CONTACT</h2>
     <p>Need help? Reach out to us:</p>
-    <a href="https://github.com/StugwareValorant" style="text-decoration:none;color:#FF4500;">GitHub</a>  
+    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
     Email: <b style="color:#32CD32;">support@stugware.com</b>
 </div>
