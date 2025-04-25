@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="font-size:2.5em;color:#FF4500;">🔥 STUGWARE CHEAT FOR VALORANT 🔥</h1>
-    <h2 style="color:#4682B4;">Essential Tools for Subtle and Semi-Rage Gameplay</h2>
+    <h2 style="color:#4682B4;">Essential Tools for Legit and Semi-Rage Gameplay</h2>
 </div>
 
 ---
